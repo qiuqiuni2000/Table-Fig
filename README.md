@@ -1,10 +1,11 @@
 
-Table 1. Effort of inserting FAEM at different CLIP layers.
+Table 1. Effect of inserting FAEM at different CLIP layers.
 | Layers | CDF-v1 | CDF-v2 | DFDC | DFDCP | DFD | Avg. |
 |:-------|-------:|-------:|-----:|------:|----:|-----:|
-| 23/24 | 0.8206 | 0.8407 | 0.8137 | 0.8747 | 0.9199 | 0.8539 |
 | 1/2 | **0.8801** | 0.8661 | 0.8222 | 0.8885 | 0.9172 | 0.8748 |
 | 6/7 | 0.8607 | **0.8694** | **0.8347** | **0.8921** | **0.9309** | **0.8776** |
+| 23/24 | 0.8206 | 0.8407 | 0.8137 | 0.8747 | 0.9199 | 0.8539 |
+
 
 <div align="left">
   <table>
@@ -26,10 +27,7 @@ Table 1. Effort of inserting FAEM at different CLIP layers.
       </td>
     </tr>
   </table>
-  <p><em>Figure 1. Visualization of local inconsistencies between real and fake images.</em></p>
-</div>
 
-<div align="left">
   <table>
     <tr>
       <td align="center">
@@ -44,5 +42,5 @@ Table 1. Effort of inserting FAEM at different CLIP layers.
       </td>
     </tr>
   </table>
-  <p><em>Figure 2. Grad-Cam visualizations of baseline CLIP and our method. Our adapter-guided strategy effectively directs CLIP to focus on local forgery artifacts.</em></p>
+  <p><em>Figure 1. The first row shows visualizations of local inconsistencies between real and fake images, while the second row presents Grad-CAM visualizations for baseline CLIP and our method. Our adapter-guided strategy effectively directs CLIP to focus on local forgery artifacts.</em></p>
 </div>
