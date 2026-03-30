@@ -33,12 +33,12 @@ Table 1. Effect of inserting FAEM at different CLIP layers.
       <td align="center">
         <img src="https://github.com/user-attachments/assets/3f1e6abf-2e8c-4805-9ee1-04d713704ac3" width="100%" alt="CLIP">
         <br>
-        <em>(a) CLIP</em>
+        <em>(d) CLIP</em>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/cb53e273-0c20-4248-a9d7-65cc38cbb5b0" width="100%" alt="Ours">
         <br>
-        <em>(b) Ours</em>
+        <em>(e) Ours</em>
       </td>
     </tr>
   </table>
