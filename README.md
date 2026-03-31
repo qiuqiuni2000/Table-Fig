@@ -21,9 +21,12 @@ Table 1. Effect of inserting FAEM at different CLIP layers.
         <em>(b) Fake</em>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/a1f9478f-deae-4260-9acd-7eed9724ac47" width="100%" alt="Diff_Mask">
+        <img src="https://github.com/user-attachments/assets/a1f9478f-deae-4260-9acd-7eed9724ac47" width="100%" alt="The actual manipulated regions of the face (discrepancies between (a) and (b))">
         <br>
-        <em>(c) Diff_Mask</em>
+        <p><em>
+    (c) Manipulated regions<br>
+    (discrepancies between (a) and (b))
+  </em></p>
       </td>
     </tr>
   </table>
