@@ -24,8 +24,7 @@ Table 1. Effect of inserting FAEM at different CLIP layers.
         <img src="https://github.com/user-attachments/assets/a1f9478f-deae-4260-9acd-7eed9724ac47" width="100%" alt="The actual manipulated regions of the face (discrepancies between (a) and (b))">
         <br>
         <p><em>
-    (c) Manipulated regions<br>
-    (discrepancies between (a) and (b))
+    (c) Manipulated regions of face
   </em></p>
       </td>
     </tr>
@@ -45,5 +44,5 @@ Table 1. Effect of inserting FAEM at different CLIP layers.
       </td>
     </tr>
   </table>
-  <p><em>Figure 1. The first row shows visualizations of local inconsistencies between real and fake images, while the second row presents Grad-CAM visualizations for baseline CLIP and our method. Our adapter-guided strategy effectively directs CLIP to focus on local forgery artifacts.</em></p>
+  <p><em>Figure 1. The first row presents the real face (a), the fake face (b), and the actual manipulated regions (c), where (c) corresponds to the actual manipulated area of the face (the discrepancy between (a) and (b)), while the second row presents Grad-CAM visualizations for baseline CLIP and our method. Our adapter-guided strategy effectively directs CLIP to focus on local forgery artifacts.</em></p>
 </div>
